@@ -1,0 +1,4 @@
+# List files, folders & patterns that git should ignore
+# Remember that no binaries or user-specific files should be tracked
+
+# Check out https://github.com/github/gitignore for different gitignore templates or compose it by yourself
