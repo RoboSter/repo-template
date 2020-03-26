@@ -23,6 +23,10 @@ Steps to reproduce the behavior:
 
 A clear and concise description of what you expected to happen.
 
+### Hardware Info
+
+Provide information about device you bumped into bug on
+
 ### Additional Context
 
 Add any other context about the problem here. For example insert there device data - model, OS, Browser, versions of software, screenshots, etc.
