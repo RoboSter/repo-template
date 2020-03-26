@@ -1,10 +1,8 @@
-## Log
-
-Provide a list of changes and describe used solutions referencing issues
+Optionally start with change log (use "Log" with `##` title)
 
 ## To-Do
 
-What changes should be done (optional, remember to mark PR with `work-in-progress` label)
+What changes should be done (optional, remember to mark PR with `wip` label)
 
 ## Materials and Useful Links
 
